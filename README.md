@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">A aspiring DevOps Engineer from India, passionate about Automation & Cloud Infrastructure. In my free time, I write content on LeetCode at <a href="https://leetcode.com/u/Mindofshridhar/" target="_blank">Mindofshridhar</a> and maintain my 620+ LeetCode problem-solving streak.</h3>
+<h3 align="center">An aspiring DevOps Engineer from India, passionate about Automation and Cloud Infrastructure. I share solutions on LeetCode as <a href="https://leetcode.com/u/Mindofshridhar/" target="_blank">Mindofshridhar</a> and enjoy building efficient DevOps pipelines.</h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/Mindofshridhar/">
