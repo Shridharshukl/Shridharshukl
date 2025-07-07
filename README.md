@@ -1,6 +1,6 @@
-<h1 align="center">Hey Everyone 👋, I'm Shridhar Shukla</h1>
-
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hey+Everyone+👋+,+I'm+Shridhar+Shukla;+A+DevOps+and+DevSecOps+Engineer!" />
+</h1>
 
 <h3 align="center">An aspiring DevOps Engineer from India, passionate about Automation and Cloud Infrastructure. I share solutions on LeetCode as <a href="https://leetcode.com/u/Mindofshridhar/" target="_blank">Mindofshridhar</a> and enjoy building efficient DevOps pipelines.</h3>
 
